@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+section{
+    background-color:hsl(0, 0%, 100%);
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+}
+section > img{
+    border-radius: 20px;
+    height: 300px;
+    margin: 20px 50px;
+}
